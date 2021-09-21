@@ -9,6 +9,7 @@ class DirTester : public QObject{
 
 	public:
 	DirTester(QObject *parent = nullptr):
+		QObject(parent),
 		beModel(this)
 	{}
 	
