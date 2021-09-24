@@ -1,2 +1,2 @@
-module com.github.tilorenz.kdirtestplugin
-plugin kdirtestplugin
+module com.github.tilorenz.dtplugin
+plugin dtplugin
